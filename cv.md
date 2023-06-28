@@ -1,8 +1,14 @@
 ![Photo](https://mir-s3-cdn-cf.behance.net/user/230/67ddc1341149481.6076cfc3f1ede.jpg) 
 # **Anna Vokueva** 
 
-##### My phone: +79264583640
+`My phone:` +79264583640
+
+`My Discord nickname:` abvlifeshots
+
+`My Git nickname:` abvlifeshots
+
 ##### [My Behance profile](https://www.behance.net/abv_lifeshots)
+
 
 
 _Now I'm trying to learn programming in order to create my own website in the future._
@@ -19,4 +25,5 @@ _Not so long ago I received a diploma of a fullstack programmer. And now I want 
 
 _At the moment, I didn't have to work as a programmer._
 
-_My English level is pre-intermediate._
+_My English level is `pre-intermediate`._
+
