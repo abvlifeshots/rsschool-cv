@@ -11,9 +11,7 @@
 
 
 
-_Now I'm trying to learn programming in order to create my own website in the future._
-
-_Not so long ago I received a diploma of a fullstack programmer. And now I want to continue, supplement and improve my knowledge._
+_One day I decided that I needed my own website. I wanted to write it myself and that's why I decided to become a programmer. To do this, I have already received a diploma of a full-tech programmer, but there is never a lot of knowledge, so I decided that I needed to grow, develop, gain new knowledge, supplement existing ones._
 
 #### _During my studies, I studied:_
 
